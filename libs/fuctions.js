@@ -710,9 +710,9 @@ if (user.level <= 3) {
 } else if (user.level <= 240) {
   user.role = '👑 *∞ ÉLITE GLOBAL II* 💎🏁'    
 } else if (user.level <= 270) {
-  user.role = '👑 *∞ ÉLITE GLOBAL I* 💎🏁'    
+  user.role = '👑 *∞ Prince* 👑'    
 } else if (user.level <= 300) {
-  user.role = '👑 *QUE PRO 🙌*\n\n🥳 Eres el mas activo del grupo te mereces ser un admins 🤩🥳'
+  user.role = '👑 King Of The Empire 🙌*\n\n🥳 '
 }}} catch (error) {
 m.error = error
 if (error) {
