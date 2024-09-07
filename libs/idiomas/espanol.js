@@ -101,11 +101,11 @@ const smsAntiArabe = () => { return `✳️ En este grupo no esta permitido nume
 
 //antilink
 const smsAntiLink = () => { return `\`\`\`「 ANTILINK DETECTADO 」\`\`\`\n\n` }
-const smsAntiLink2 = () => { return `🤨 eso no esta permitido rata, Sera expulsado del grupo....` }
-const smsAntiLink3 = () => { return `Te salvarte puto no soy admins 🙄\n\n*[ LLAMADO A LOS ADMINS ]*` }
+const smsAntiLink2 = () => { return ` eso no esta permitido rata, Sera expulsado del grupo....` }
+const smsAntiLink3 = () => { return `Dame admin, para poder cumplir esa funcion.\n\n*[ LLAMADO A LOS ADMINS ]*` }
 const smsAntiLink4 = () => { return `> ᴱˡ ᵇᵒᵗ ⁿᵉᶜᵉˢᶦᵗᵃ ᵃᵈᵐᶦⁿ ᵖᵃʳᵃ ᵉˡᶦᵐᶦⁿᵃʳ ᵃ ᵉˢᵗᵃ ˢᵘᶜᶦᵃ ʳᵃᵗᵃ` }
-const smsAntiLink5 = () => { return `Eres un admins del grupo, así que no te prohibiré el uso de enlaces :)` }
-const smsAntiLink6 = () => { return `Te salvarte gil, no soy admin no te puedo eliminar` }
+const smsAntiLink5 = () => { return `Eres un admin del grupo, así que no te prohibiré el uso de enlaces :)` }
+const smsAntiLink6 = () => { return `Te salvaste gil, no soy admin no te puedo eliminar` }
 
 //allAntilink
 const AntiLink = () => { return `*LINK DETECTADO 📢*` }
@@ -115,7 +115,7 @@ const AntiToxic2 = () => { return `superaste las 4 advertencias serás eliminado
 const viewOnce = () => { return `𝙌𝙐𝙀 𝙊𝘾𝙐𝙇𝙏𝘼𝙎 🧐` }
 
 //autosticker
-const smsAutoSicker = () => { return `🤡 Hey Donde carajo viste un sticker que dure tanto bobo 🤣. (Máximo 15 segundos)` }
+const smsAutoSicker = () => { return `Hey Donde carajo viste un sticker que dure tanto XDDDD. (Máximo 15 segundos)` }
 
 //autonivel
 const smsAutonivel = () => { return `*「 FELICIDADES LEVEL UP 🆙🥳 」*\n\n🥳 Felicidades` }
