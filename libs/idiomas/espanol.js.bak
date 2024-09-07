@@ -115,7 +115,7 @@ const AntiToxic2 = () => { return `superaste las 4 advertencias serás eliminado
 const viewOnce = () => { return `𝙌𝙐𝙀 𝙊𝘾𝙐𝙇𝙏𝘼𝙎 🧐` }
 
 //autosticker
-const smsAutoSicker = () => { return `🤡 Hey Donde carajo viste un sticker que dure tanto bobo 🤣. (Máximo 15 segundos)` }
+const smsAutoSicker = () => { return ` Hey Donde carajo viste un sticker que dure tanto bro?. (Máximo 15 segundos)` }
 
 //autonivel
 const smsAutonivel = () => { return `*「 FELICIDADES LEVEL UP 🆙🥳 」*\n\n🥳 Felicidades` }
@@ -131,9 +131,9 @@ const smsAutonivel9 = () => { return `*🥳 FELICIDADES LLEGARTE A UN NUEVO NIVE
 //info
 const nivel = () => { return `[ ❇️ ] ɴᴇᴄᴇsɪᴛᴀ ᴇʟ ɴɪᴠᴇʟ` }
 const nivel2 = () => { return `ᴘᴀʀᴀ ᴘᴏᴅᴇʀ ᴜsᴀʀ ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ᴄᴏᴍᴘʀᴜᴇʙᴀ ᴛᴜ ɴɪᴠᴇʟ ᴀᴄᴛᴜᴀʟ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ` }
-const admin = () => { return `*⚠️ Tu no eres admins 🤡 solo los admins pueden usar este comando*` }
+const admin = () => { return `*⚠️  solo los admins pueden usar este comando*` }
 const botAdmin = () => { return `*⚠️ Hey primero el bot osea (Yo), Necesito ser admin para usar este comando*` }
-const propietario = () => { return `*⚠️ Este comando solo YO o mi jefe lo puede usar*` }
+const propietario = () => { return `*⚠️ Este comando solo YO o mi  Jared lo puede usar*` }
 const prem = () => { return `*💠 Este comando solo es para usuarios VIP y mi propietario*` } 
 const group = () => { return `*⚠️ Pendejo este comando solo se puede usar el grupo*` }
 const private = () => { return `*⚠️ Este comando solo se puede usar al chat privado*` }
