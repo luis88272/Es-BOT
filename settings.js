@@ -15,8 +15,8 @@ global.wm = '𝐒𝐀𝐌𝐔𝐑𝐀𝐈-𝐁𝐎𝐓 🏵️'
 global.vs = '1.0 (beta)'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "593994524688" //Ejemplo: +50231458537
-global.phoneNumber = "593994525688"
+global.botNumberCode = "" //Ejemplo: +50231458537
+global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Thule' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
